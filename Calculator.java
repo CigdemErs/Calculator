@@ -1,5 +1,3 @@
-package Bil211;
-
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
